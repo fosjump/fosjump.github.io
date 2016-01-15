@@ -2194,8 +2194,12 @@
 	}
 
 	.box.boxes {
-			height: 33em;
+			height: 34em;
 	}
+	
+	.okk{
+			padding-bottom: 10em;			
+		}
 
 		.box > :last-child {
 			margin-bottom: 0;
