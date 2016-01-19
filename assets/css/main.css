@@ -2196,7 +2196,7 @@
 	.box.boxes {
 			height: 34em;
 	}
-	
+
 		.box > :last-child {
 			margin-bottom: 0;
 		}
